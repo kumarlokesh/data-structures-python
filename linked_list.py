@@ -62,7 +62,7 @@ class LinkedList(object):
         if position < 1:
             return False
         if position == 1:
-            node.next = self.head.next
+            node.next = self.head
             self.head = node
             return True
         counter = 1
