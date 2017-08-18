@@ -1,2 +1,2 @@
-# data-structures-python
-Implementation of basic data structures in Python
+# data-structures-algorithms-python
+Implementation of basic data structures and algorithms in Python
